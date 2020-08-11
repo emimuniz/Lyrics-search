@@ -27,7 +27,7 @@
 
 </p>
 
-![image](https://github.com/emimuniz/AllProjects/blob/master/lyrics-search/aplicacao.gif)
+![image](https://github.com/emimuniz/Lyrics-search/blob/master/aplicacao.gif)
 
 
 
